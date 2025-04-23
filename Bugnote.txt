@@ -1,3 +1,5 @@
+Usable :->
+
 - Fire -> No velocity, May need to hardcode to make fire stand still 1 sec then launch
 
 - Water -> <Awaiting>
@@ -8,10 +10,24 @@
 
 - Command Explode -> <Incompleted> (Want electro explode)
 
-- Combustion -> <Haven't pull yet>
+- Combustion -> <Incompleted>
 
--
+- Flamethrower -> <Incompleted>
 
 - Lightning Ball -> Complete (No Colliding Effect (Want electro explode))
 
-- 
+- Earthquake -> <Awaiting>
+
+- Lightning Hand -> <Incompleted>
+
+- Fire Scatter -> <Incompleted> (Same problem from fire + earth)
+
+- Lightning Bolts -> <Incompleted>
+
+- Dirt Storm -> <Awaiting>
+
+- Water Bomb -> <Awaiting>
+
+- Electric field -> <Incompleted>
+
+- Mud Explode -> <Awaiting>
