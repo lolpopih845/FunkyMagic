@@ -1,0 +1,17 @@
+- Fire -> No velocity, May need to hardcode to make fire stand still 1 sec then launch
+
+- Water -> <Awaiting>
+
+- Lightning -> Complete (Lack hit effect)
+
+- Earth -> Stone has no collision/ collide with player
+
+- Command Explode -> <Incompleted> (Want electro explode)
+
+- Combustion -> <Haven't pull yet>
+
+-
+
+- Lightning Ball -> Complete (No Colliding Effect (Want electro explode))
+
+- 
