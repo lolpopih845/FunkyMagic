@@ -1,6 +1,7 @@
+Fire: Left Click, Water: Right Click, Lightning: Q, Earth: E
 Usable :->
 
-- Fire -> No velocity, May need to hardcode to make fire stand still 1 sec then launch
+- Fire -> <Awaiting Effect>
 
 - Water -> <Awaiting>
 
@@ -18,7 +19,7 @@ Usable :->
 
 - Earthquake -> <Awaiting>
 
-- Lightning Hand -> <Incompleted>
+- Lightning Hand -> <Complete>
 
 - Fire Scatter -> <Incompleted> (Same problem from fire + earth)
 
