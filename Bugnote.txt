@@ -19,11 +19,11 @@ Usable :->
 
 - Earthquake -> <Awaiting>
 
-- Lightning Hand -> <Complete>
+- Lightning Hand -> Complete
 
-- Fire Scatter -> <Incompleted> (Same problem from fire + earth)
+- Fire Scatter -> Complete (Same problem from fire + earth)
 
-- Lightning Bolts -> <Incompleted>
+- Lightning Bolts -> Completed
 
 - Dirt Storm -> <Awaiting>
 
