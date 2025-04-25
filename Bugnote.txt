@@ -23,7 +23,7 @@ Usable :->
 
 - Fire Scatter -> Complete (Same problem from fire + earth)
 
-- Lightning Bolts -> Completed
+- Lightning Bolts -> Complete
 
 - Dirt Storm -> <Awaiting>
 
