@@ -1,0 +1,40 @@
+Fire: Left Click, Water: Right Click, Lightning: Q, Earth: E
+Usable :->
+
+- Fire -> <Hit Effect>
+
+- Water -> <Awaiting Kanom> 
+
+- Lightning -> Complete
+
+- Earth -> <Hit Effect>
+
+- Command Explode -> <Incompleted>
+
+- Combustion -> <Incompleted>
+
+- Flamethrower -> Complete
+
+- Lightning Ball -> <Hit Effect>
+
+- Earthquake -> <Awaiting>
+
+- Lightning Hand -> Complete
+
+- Fire Scatter -> <Hit Effect>
+
+- Lightning Bolts -> Complete
+
+- Dirt Storm -> <Awaiting>
+
+- Water Bomb -> <Awaiting>
+
+- Electric field -> <Incompleted>
+
+- Mud Explode -> <Awaiting>
+
+
+Problem:
+1. no collision for every spell
+2. (Command Explode) can't detect fireball projectile (because it is a particle)
+3. Want electric floor effect for lightning strike
