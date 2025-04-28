@@ -17,7 +17,7 @@ Usable :->
 
 - Lightning Ball -> Complete
 
-- Earthquake -> <ไม่รู้จะใช้ไง>
+- Earthquake -> Kinda Underwhelming
 
 - Lightning Hand -> Complete
 
@@ -25,10 +25,10 @@ Usable :->
 
 - Lightning Bolts -> Complete
 
-- Dirt Storm -> <ไม่รู้ใช้ไง>
+- Dirt Storm -> Not as expected but ok
 
 - Water Bomb -> Complete
 
 - Electric field -> Complete
 
-- Mud Explode -> <มีเเต่วงเเหวนออกมา>
+- Mud Explode -> Complete
